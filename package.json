@@ -1,0 +1,16 @@
+{
+  "name": "basic-node",
+  "version": "1.0.0",
+  "description": "basic node js file ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": "https://github.com/jquirozgerardo/basic-node.git",
+  "author": "Jaasiel Quiroz",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
